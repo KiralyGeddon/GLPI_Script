@@ -8,5 +8,7 @@ Comment utiliser :
 ```
 apt install -y git
 git clone https://github.com/KiralyGeddon/GLPI_Script
-chmod +x menu_principal.sh
+cd GLPI_Script
+chmod +x *
+./menu_principal.sh
 ```
